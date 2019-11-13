@@ -1,0 +1,18 @@
+
+.navBar{
+  margin: 10px 10px 0 0;
+  float: right;
+}
+.icon{
+  height: 30px;
+  margin-right: 20px;
+}
+.breadCrumbsIcon{
+  position: relative;
+  top: -5px;
+  margin-right: 10px;
+  font-size: 30px;
+  color: black;
+  text-decoration: none;
+}
+

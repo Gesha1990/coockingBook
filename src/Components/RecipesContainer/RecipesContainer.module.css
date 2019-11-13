@@ -1,0 +1,34 @@
+
+.recipesTitle{
+  margin: 0 50%;
+}
+.addRecipe {
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.searchBar {
+  margin: 10px;
+  width: 50%;
+  border: none;
+  padding: 10px;
+}
+.searchButton{
+  background: lightcoral;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+}
+.myRecipes{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.articleIcon{
+  height: 25px;
+  float: right;
+  margin-top: 13px;
+  margin-right: 15px;
+}

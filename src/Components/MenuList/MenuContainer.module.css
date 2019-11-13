@@ -1,0 +1,30 @@
+.menu{
+  padding-bottom: 10px;
+  height: 100%;
+}
+.searchForm {
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.searchBar {
+  width: 400px;
+  border: none;
+  padding: 10px;
+}
+.searchButton{
+  background: lightcoral;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+}
+.titleMenu{
+  margin: 0 50%;
+}
+ul {
+  padding-left: 20px;
+  list-style-type: circle;
+  margin-right: 0;
+}

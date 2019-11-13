@@ -1,0 +1,87 @@
+.recipe {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgb(71, 71, 71);
+  margin: 20px;
+  display: block;
+  background: white;
+  position: relative;
+  width: 400px;
+  height: 500px;
+
+}
+.formEditing{
+  display: inline-block;
+}
+.img {
+  height: 200px;
+  border-radius: 50px;
+  width: auto;
+  position: absolute;
+  top: 300px;
+  left: 90px;
+}
+
+.title {
+  position: relative;
+  left: 30px;
+  top: 10px;
+}
+
+.icon {
+  position: relative;
+  heigth: 25px;
+  width: 20px;
+  float: right;
+
+  margin: 10px;
+}
+.editIcons{
+  display: inline-flex;
+ float: right;
+
+}
+
+.icon:hover {
+  -webkit-filter: drop-shadow(3px 3px 2px rgba(0, 0, 0, .7));
+  cursor: pointer;
+}
+.titleField{
+  display: inline-flex;
+  float: left;
+  position: relative;
+  height: 25px;
+  width: 230px;
+  border-radius: 30px;
+  resize: none;
+  outline: none;
+  padding: 10px;
+  top: 10px;
+}
+.title{
+  display: inline-flex;
+  margin-top: 0;
+  font-size: 25px;
+}
+.textField {
+  position: relative;
+  height: 250px;
+  width: 350px;
+  bottom: -20px;
+  padding: 10px;
+  left: 10px;
+  border-radius: 30px;
+  resize: none;
+  outline: none;
+  text-align: start;
+
+}
+.text{
+  position: relative;
+  height: 200px;
+  width: 350px;
+  bottom: -20px;
+  padding: 10px;
+  left: 10px;
+  text-align: start;
+}
+
